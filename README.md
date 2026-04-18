@@ -33,4 +33,4 @@ Expanse Tracker
    
 ## Live Streaming And Deploy App 
 - Run Directly On Streamlit App
-- Live Link To Deploy My App ------   https://finsight-ai-fcscdsvbyrarrf35it8zz9.streamlit.app/
+- Live Link To Deploy My App ------   https://expanse-tracker-vrmab9t6ma2jelkdwxjqpt.streamlit.app/
