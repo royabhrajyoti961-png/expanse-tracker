@@ -121,7 +121,7 @@ if "user" not in st.session_state:
 # ================= AUTH =================
 if st.session_state.user is None:
 
-    st.markdown("<h2 class='fade'> ₹ FinSight SaaS Transaction App </h2>", unsafe_allow_html=True)
+    st.markdown("<h2 class='fade'> ₹ FinSight SaaS Expanses Tracking App </h2>", unsafe_allow_html=True)
 
     tab1, tab2 = st.tabs(["Login", "Register"])
 
